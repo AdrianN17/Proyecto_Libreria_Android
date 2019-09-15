@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Proyecto_Libreria_Android</string>
+    <string name="item_menu_1">Donacion</string>
+    <string name="item_menu_2">Intercambio</string>
+    <string name="item_menu_3">Reserva</string>
+    <string name="item_menu_4">Prestamo</string>
+    <string name="item_menu_5">Devolucion</string>
+</resources>
